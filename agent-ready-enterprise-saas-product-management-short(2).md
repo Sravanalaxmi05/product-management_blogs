@@ -1,4 +1,4 @@
-# Designing Enterprise SaaS for AI Agents: A Product Management Perspective
+# Designing Enterprise SaaS for AI Agents
 
 ![Designing Enterprise SaaS for AI Agents](images/agent-ready-enterprise-saas-product-management.png)
 
