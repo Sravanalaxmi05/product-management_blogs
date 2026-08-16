@@ -1,6 +1,6 @@
 # Designing Enterprise SaaS for AI Agents
 
-![Designing Enterprise SaaS for AI Agents](images/agent-ready-enterprise-saas-product-management.png)
+![Designing Enterprise SaaS for AI Agents](images/Designing Enterprise SaaS for AI Agents.png)
 
 Enterprise SaaS has traditionally been designed around one assumption:
 
