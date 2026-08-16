@@ -1,4 +1,4 @@
-# Building Agentic AI Products: A Product Management Perspective
+# 1. Building Agentic AI Products: A Product Management Perspective
 
 ![The crux of building agentic AI products](images/building-agentic-ai-products-crux.png)
 
