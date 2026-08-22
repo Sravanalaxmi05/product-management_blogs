@@ -1,6 +1,6 @@
 # LLMs vs Copilots vs Agents: A Product Management Perspective
 
-![LLMs vs Copilots vs Agents](images/LLMs vs Copilots vs Agents.png)
+![LLMs vs Copilots vs Agents](images/LLMs-Copilots-Agents.png)
 
 Enterprise AI products are often described with the same words:
 
